@@ -41,12 +41,6 @@ A centralized platform for curated technical insights and structured knowledge m
 
 **Tech Stack:** `React`, `JavaScript`, `TailwindCSS`, `Vite`
 
-##  GitHub Analytics
-
-<div align="center">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=saiganeshdhara&show_icons=true&theme=tokyonight)
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiganeshdhara&layout=compact&theme=tokyonight)
-</div>
 
 ## 📫 Connect with me
 
