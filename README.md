@@ -29,7 +29,7 @@ I am a technology enthusiast with hands-on experience in Java, Spring Boot, REST
 ### [LifestyleMatcher – Smart Relocation Recommender](https://github.com/saiganeshdhara/lifestyle-matcher)
 Designed a web app to help users find ideal neighbourhoods based on lifestyle presets. Integrated Leaflet.js for interactive map views and Chart.js for comparative scoring.
 
-**Tech Stack:** `Java`, `Spring Boot`, `MySQL`, `JavaScript`, `Leaflet.js`
+**Tech Stack:** `Java`, `Spring Boot`, `MySQL`, `JavaScript`
 
 ### [Patient Treatment Classification](https://github.com/saiganeshdhara/treatment-classification)
 Built a machine learning model to classify patient treatment types. Applied data cleaning and preprocessing techniques like IQR and EDA to identify relationships.
@@ -39,7 +39,7 @@ Built a machine learning model to classify patient treatment types. Applied data
 ### [Key Point Hub](https://github.com/saiganesh5/key-point-hub)
 A centralized platform for curated technical insights and structured knowledge management. Streamlines information retrieval and highlights critical concepts for developers.
 
-**Tech Stack:** `React`, `JavaScript`, `TailwindCSS`, `Vite`
+**Tech Stack:** `React`, `Java`, `Python`, `MediapipeService`, `MySQL`, `MongoDB`
 
 ##  Connect with me
 
