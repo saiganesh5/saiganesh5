@@ -26,12 +26,17 @@ I am a technology enthusiast with hands-on experience in Java, Spring Boot, REST
 
 ## 📂 Featured Projects
 
-### [LifestyleMatcher – Smart Relocation Recommender](https://github.com/saiganeshdhara/lifestyle-matcher)
+### [LifestyleMatcher – Smart Relocation Recommender](https://github.com/saiganeshdhara/Life-Style-Matcher)
 Designed a web app to help users find ideal neighbourhoods based on lifestyle presets. Integrated Leaflet.js for interactive map views and Chart.js for comparative scoring.
 
 **Tech Stack:** `Java`, `Spring Boot`, `MySQL`, `JavaScript`
 
-### [Patient Treatment Classification](https://github.com/saiganeshdhara/treatment-classification)
+### [Java Cloud IDE - Browser based Java IDE](https://github.com/saiganesh5/java-cloud-IDE)
+A browser based Java IDE that need no setup , use straightaway and without installing any dependencies
+
+**Tech Stack:** `Java`, `Spring Boot`, `Node.js`, `React-vite`, `Javascript`, `Docker`
+
+### [Patient Treatment Classification](https://github.com/saiganesh5/patient-treatment-classification)
 Built a machine learning model to classify patient treatment types. Applied data cleaning and preprocessing techniques like IQR and EDA to identify relationships.
 
 **Tech Stack:** `Python`, `Scikit-Learn`, `Pandas`, `Seaborn`
