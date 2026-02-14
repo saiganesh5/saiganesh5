@@ -26,7 +26,7 @@ I am a technology enthusiast with hands-on experience in Java, Spring Boot, REST
 
 ## 📂 Featured Projects
 
-### [LifestyleMatcher – Smart Relocation Recommender](https://github.com/saiganeshdhara/Life-Style-Matcher)
+### [LifestyleMatcher – Smart Relocation Recommender](https://github.com/saiganesh5/Life-Style-Matcher)
 Designed a web app to help users find ideal neighbourhoods based on lifestyle presets. Integrated Leaflet.js for interactive map views and Chart.js for comparative scoring.
 
 **Tech Stack:** `Java`, `Spring Boot`, `MySQL`, `JavaScript`
@@ -50,6 +50,6 @@ A centralized platform for curated technical insights and structured knowledge m
 
 <div align="left">
   <a href="mailto:saiganesh0813@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/saiganeshdhara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/saiganeshdhara"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/saiganeshdhara](https://www.linkedin.com/in/sai-ganesh-1719431b9/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/saiganesh5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
